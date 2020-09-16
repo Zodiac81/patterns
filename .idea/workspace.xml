@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7966c20-9d7f-49c7-8f65-f33ae7c28f48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/BaseLogistic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/Plane.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/PlanePost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/ShipPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/TruckPost.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gJpra9XoyZzG3pI3LOijAduKFq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7966c20-9d7f-49c7-8f65-f33ae7c28f48" name="Default Changelist" comment="" />
+      <created>1597842756117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597842756117</updated>
+      <workItem from="1597842757904" duration="2236000" />
+      <workItem from="1597901275692" duration="2128000" />
+      <workItem from="1599829460025" duration="1813000" />
+      <workItem from="1600064310532" duration="9954000" />
+      <workItem from="1600167360655" duration="1209000" />
+      <workItem from="1600254085189" duration="429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="197" key="#CLI_Interpreters" timestamp="1597843921791">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="580" y="197" key="#CLI_Interpreters/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1597843921791" />
+    <state x="690" y="364" key="#Notifications" timestamp="1597843822825">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="690" y="364" key="#Notifications/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1597843822825" />
+    <state x="730" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600089652316">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="730" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1600089652316" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1600169714507">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1600169714507" />
+    <state x="1099" y="206" key="NewPhpClassDialog" timestamp="1600089653836">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1099" y="206" key="NewPhpClassDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1600089653836" />
+    <state x="793" y="464" key="NewPhpFileDialog" timestamp="1597842982258">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="793" y="464" key="NewPhpFileDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1597842982258" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1597843925748">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1597843925748" />
+  </component>
+</project>
